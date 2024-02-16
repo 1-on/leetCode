@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c810b60-c183-40bb-851c-067fb160fc7c" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yixian/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yixian/TreeNode.java" afterDir="false" />
+    <list default="true" id="3c810b60-c183-40bb-851c-067fb160fc7c" name="更改" comment="p541 反转字符串 II">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,25 +34,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/code/一些项目/leetCode/src/main/java/com/yixian/Main.java",
-    "settings.editor.selected.configurable": "leetcode.id",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.Main.executor": "Run",
-    "应用程序.P541_ReverseStringIi.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/code/一些项目/leetCode/src/main/java/com/yixian/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.P541_ReverseStringIi.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="应用程序.P541_ReverseStringIi">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yixian.Main" />
@@ -105,11 +96,70 @@
       <option name="presentableId" value="Default" />
       <updated>1708015694872</updated>
       <workItem from="1708015695991" duration="469000" />
-      <workItem from="1708016182201" duration="8716000" />
+      <workItem from="1708016182201" duration="9624000" />
+      <workItem from="1708069898453" duration="9000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1708066062060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708066062060</updated>
+    </task>
+    <task id="LOCAL-00002" summary="p1 两数之和">
+      <option name="closed" value="true" />
+      <created>1708066480927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708066480927</updated>
+    </task>
+    <task id="LOCAL-00003" summary="p20 有效的括号 栈">
+      <option name="closed" value="true" />
+      <created>1708066547228</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708066547228</updated>
+    </task>
+    <task id="LOCAL-00004" summary="p103 二叉树锯齿形层序遍历 队列">
+      <option name="closed" value="true" />
+      <created>1708066591401</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708066591401</updated>
+    </task>
+    <task id="LOCAL-00005" summary="p344 翻转字符串">
+      <option name="closed" value="true" />
+      <created>1708066617104</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708066617104</updated>
+    </task>
+    <task id="LOCAL-00006" summary="p541 反转字符串 II">
+      <option name="closed" value="true" />
+      <created>1708066639557</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708066639557</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="p1 两数之和" />
+    <MESSAGE value="p20 有效的括号 栈" />
+    <MESSAGE value="p103 二叉树锯齿形层序遍历 队列" />
+    <MESSAGE value="p344 翻转字符串" />
+    <MESSAGE value="p541 反转字符串 II" />
+    <option name="LAST_COMMIT_MESSAGE" value="p541 反转字符串 II" />
   </component>
 </project>
