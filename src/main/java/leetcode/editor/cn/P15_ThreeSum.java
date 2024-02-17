@@ -86,18 +86,16 @@ public class P15_ThreeSum {
                     if (has.get(target) != null) {
                         int k = has.get(target);
                         if (i != j && i != k && j != k) {
-                            if (nums[i] + nums[j] + nums[k] == 0) {
-                                List<Integer> list = new ArrayList<>();
-                                list.add(nums[i]);
-                                list.add(nums[j]);
-                                list.add(nums[k]);
-                                Collections.sort(list);
-                                if (map.get(list) == null) {
-                                    res.add(list);
-                                    map.put(list, 1);
-                                }
-
+                            List<Integer> list = new ArrayList<>();
+                            list.add(nums[i]);
+                            list.add(nums[j]);
+                            list.add(nums[k]);
+                            Collections.sort(list);
+                            if (map.get(list) == null) {
+                                res.add(list);
+                                map.put(list, 1);
                             }
+
                         }
                     }
 
